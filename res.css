@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(249, 233, 214);
+}
+.head{
+    background-color: rgb(1, 18, 18);
+    color:white;
+    padding:1px;
+}
+.ram{
+    background-color:coral;
+}
+.ram li{
+    display:inline;
+    padding:20px;
+}
+.about{
+    border:1px solid black;
+    padding:5px;
+}
+.about p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.project h3{
+    align:center;
+}
